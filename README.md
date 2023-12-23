@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Mauro.</h1>
 <h3 align="center">I am a Full Stack Developer from the UK. I’m working as a Research Assistant and individually creating frontend and backend applications. In my free time, I like to play video games, work on personal projects and learn about new languages.</h3>
 
@@ -18,4 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms2620&show_icons=true&locale=en&layout=compact" alt="ms2620" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2620&show_icons=true&locale=en" alt="ms2620" /></p>
-
+</div>
