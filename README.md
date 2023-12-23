@@ -26,4 +26,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I like to play Video Games, work on personal projects and learn about new languages.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://icons8.com/icon/25627/discord)](https://www.linkedin.com/in/maurosousa1/)
+- :mailbox:How to reach me: [![Discord](https://icons8.com/icon/30998/discord)](https://www.linkedin.com/in/maurosousa1/)
