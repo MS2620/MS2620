@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2620&label=Profile%20views&color=0e75b6&style=flat" alt="ms2620" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ms2620" alt="ms2620" /></a> </p>
-
 - 🔭 I’m currently working on [Jarvis](https://github.com/MS2620/Jarvis)
 
 - 👨‍💻 All of my projects are available at [https://maurosousa.co.uk](https://maurosousa.co.uk)
@@ -20,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms2620&show_icons=true&locale=en&layout=compact" alt="ms2620" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2620&show_icons=true&locale=en" alt="ms2620" /></p>
+
