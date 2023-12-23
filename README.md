@@ -26,6 +26,7 @@
   
   - :zap: In my free time, I like to play Video Games, work on personal projects and learn about new languages.
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
