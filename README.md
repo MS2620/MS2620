@@ -1,4 +1,3 @@
-# profile
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -25,3 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Research Assistant and individually creating frontend and backend applications.
 
 - :zap: In my free time, I like to play Video Games, work on personal projects and learn about new languages.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
