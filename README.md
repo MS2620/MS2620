@@ -19,6 +19,13 @@
 
 --- 
 ### :fire: My Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms2620&show_icons=true&locale=en&layout=compact" alt="ms2620" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms2620&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ms2620" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2620&show_icons=true&locale=en" alt="ms2620" /></p>
+
+---
+
+### Random :
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1116667885&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=1116667885&redirect=true)
