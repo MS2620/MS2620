@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.maurosousa.co.uk">
-    <img src="https://www.maurosousa.co.uk/assets/logo-2b77e8aa.svg" alt="Portfolio Website Logo."/>
+    <img style="width:150px;" src="https://www.maurosousa.co.uk/assets/logo-2b77e8aa.svg" alt="Portfolio Website Logo."/>
   </a>
 </div>
 
