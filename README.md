@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://maurosousa.co.uk](https://maurosousa.co.uk)
 
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:woman_technologist: Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maurosousa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maurosousa1" height="30" width="40" /></a>
 </p>
