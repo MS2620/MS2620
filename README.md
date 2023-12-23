@@ -25,5 +25,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Research Assistant and individually creating frontend and backend applications.
 
 - :zap: In my free time, I like to play Video Games, work on personal projects and learn about new languages.
-
-- :mailbox:How to reach me: [![Discord](https://icons8.com/icon/30998/discord)](https://www.linkedin.com/in/maurosousa1/)
