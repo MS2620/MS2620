@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-<div id="header" align="center">
+<div align="center">
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
   - :telescope: I’m working as a Research Assistant and individually creating frontend and backend applications.
   
@@ -30,7 +30,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -46,12 +46,14 @@
 
 ### :fire: My Stats :
 
-<div id="header" align="center">
+<div align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ms2620&theme=dark&background=000000)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms2620&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ---
+
 ### Daily Jokes :
-<div id="header" align="center">
+
+<div align="center">
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
