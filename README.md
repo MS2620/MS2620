@@ -22,3 +22,8 @@
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+- :telescope: I’m working as a Research Assistant and individually creating frontend and backend applications.
+
+- :zap: In my free time, I like to play Video Games, work on personal projects and learn about new languages.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maurosousa1/)
