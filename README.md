@@ -8,7 +8,7 @@ Although I was initially interested in Art, learning about the art of website pr
 
 *   🌍  I'm based in Elgin, UK.
 *   🖥️  See my portfolio at [https://portfolio.maurosousa.com](http://portfolio.maurosousa.com)
-*   🚀  I'm currently working on [Chef Forum]((https://github.com/MS2620/chef_forum))
+*   🚀  I'm currently working on [Chef Forum](https://github.com/MS2620/chef_forum)
 
 ---
 ### :hammer_and_wrench: Skills 
