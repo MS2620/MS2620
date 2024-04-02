@@ -7,8 +7,8 @@ I'm a Research Assistant at UHI Moray.
 Although I was initially interested in Art, learning about the art of website programming greatly expanded my outlook. I was drawn to coding because of its endless possibilities, which inspired me to learn everything there is to know about it. I started my studies by learning basic coding languages like HTML, CSS, and Python. From there, I moved smoothly to more complex languages like SQL, JavaScript, and C#. I am currently utilising TypeScript to explore React, furthering my knowledge and showcasing my devotion to lifelong learning. My primary goal is to become fluent in these languages, and I'm always looking for new ways to expand my horizons. My confidence in using these coding skills positions me well for a successful career in web development.
 
 *   🌍  I'm based in Elgin, UK.
-*   🖥️  See my portfolio at [https://maurosousa.co.uk](http://maurosousa.co.uk)
-*   🚀  I'm currently working on [Jarvis](http://github.com/MS2620/Jarvis)
+*   🖥️  See my portfolio at [https://portfolio.maurosousa.com](http://portfolio.maurosousa.com)
+*   🚀  I'm currently working on [Chef Forum]([https://github.com/MS2620/chef_forum])
 
 ---
 ### :hammer_and_wrench: Skills 
